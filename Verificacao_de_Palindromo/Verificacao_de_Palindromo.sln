@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Verificacao_de_Palindromo", "Verificacao_de_Palindromo.csproj", "{AE56A51E-C321-4237-BCFF-072125A455CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE56A51E-C321-4237-BCFF-072125A455CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE56A51E-C321-4237-BCFF-072125A455CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE56A51E-C321-4237-BCFF-072125A455CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE56A51E-C321-4237-BCFF-072125A455CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B61E0E0-EF75-4BB6-848C-15899D7763D6}
+	EndGlobalSection
+EndGlobal
